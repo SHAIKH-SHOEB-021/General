@@ -30,5 +30,5 @@ var someAnotherValue:Int!
 someValue = 50
 someAnotherValue = 50
 
-print(someValue!)
-print(someAnotherValue!)
+//print(someValue!)
+//print(someAnotherValue!)
