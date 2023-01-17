@@ -30,5 +30,10 @@ var someAnotherValue:Int!
 someValue = 50
 someAnotherValue = 50
 
-print(someValue!)
-print(someAnotherValue!)
+//print(someValue!)
+//print(someAnotherValue!)
+
+var f = "5"
+var s = 5
+var p = Int(f)
+print(s + p!)
